@@ -15,22 +15,22 @@ How to Use
 Clone this repository:
 
 bash
+
 Copy code
+
 git clone https://github.com/yourusername/Bioinformatics-Assignment-Toolkit.git
 cd Bioinformatics-Assignment-Toolkit
-Install necessary libraries:
 
-bash
-Copy code
-pip install -r requirements.txt
-Run the provided scripts in a Jupyter notebook or Python environment.
+Install necessary libraries:
 
 Project Structure
 primers.py: Handles primer extraction and melting temperature calculations.
 translation.py: Translates DNA sequences into proteins.
 classification.py: Analyzes amino acid composition.
 clustering.py: Clusters proteins based on amino acid properties.
+
 Tests
+
 To verify that your functions work as expected, run the provided test cases within each module. You can test individual components as shown in the included code.
 
 License
