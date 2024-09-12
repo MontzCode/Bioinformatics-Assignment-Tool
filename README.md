@@ -29,7 +29,9 @@ classification.py: Analyzes amino acid composition.
 
 clustering.py: Clusters proteins based on amino acid properties.
 
-- Tests: To verify that your functions work as expected, run the provided test cases within each module. You can test individual components as shown in the included code.
+# Tests
+
+To verify that your functions work as expected, run the provided test cases within each module. You can test individual components as shown in the included code.
 
 # License
 
