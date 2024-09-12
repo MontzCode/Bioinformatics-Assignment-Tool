@@ -20,7 +20,6 @@ bash
 Copy code
 
 git clone https://github.com/yourusername/Bioinformatics-Assignment-Toolkit.git
-cd Bioinformatics-Assignment-Toolkit
 
 Install necessary libraries:
 
