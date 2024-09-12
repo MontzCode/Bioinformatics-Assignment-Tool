@@ -24,9 +24,13 @@ git clone https://github.com/yourusername/Bioinformatics-Assignment-Toolkit.git
 Install necessary libraries:
 
 Project Structure
+
 primers.py: Handles primer extraction and melting temperature calculations.
+
 translation.py: Translates DNA sequences into proteins.
+
 classification.py: Analyzes amino acid composition.
+
 clustering.py: Clusters proteins based on amino acid properties.
 
 Tests
