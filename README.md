@@ -15,15 +15,11 @@ The project includes various bioinformatics tasks such as DNA sequence processin
 
 Clone this repository:
 
-bash
-
-Copy code
-
 git clone https://github.com/yourusername/Bioinformatics-Assignment-Toolkit.git
 
 Install necessary libraries:
 
-Project Structure
+# Project Structure
 
 primers.py: Handles primer extraction and melting temperature calculations.
 
@@ -33,14 +29,12 @@ classification.py: Analyzes amino acid composition.
 
 clustering.py: Clusters proteins based on amino acid properties.
 
-Tests
+- Tests: To verify that your functions work as expected, run the provided test cases within each module. You can test individual components as shown in the included code.
 
-To verify that your functions work as expected, run the provided test cases within each module. You can test individual components as shown in the included code.
-
-License
+# License
 
 This project is licensed under the MIT License.
 
-Contact
+# Contact
 
 For queries, please contact Monty Nkpa. Connect with me on LinkedIn: https://www.linkedin.com/in/monty-nkpa-7a4a7623b/?originalSubdomain=uk
