@@ -34,4 +34,9 @@ Tests
 To verify that your functions work as expected, run the provided test cases within each module. You can test individual components as shown in the included code.
 
 License
+
 This project is licensed under the MIT License.
+
+Contact
+
+For queries, please contact Monty Nkpa. Connect with me on LinkedIn: https://www.linkedin.com/in/monty-nkpa-7a4a7623b/?originalSubdomain=uk
