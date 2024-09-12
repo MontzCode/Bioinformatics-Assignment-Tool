@@ -11,7 +11,7 @@ The project includes various bioinformatics tasks such as DNA sequence processin
 
 - Protein Clustering: Calculates Euclidean distances between proteins based on amino acid composition. Generates a distance matrix to cluster proteins.
 
-How to Use
+# How to Use
 
 Clone this repository:
 
