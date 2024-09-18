@@ -3,13 +3,10 @@
 The project includes various bioinformatics tasks such as DNA sequence processing, protein classification, and clustering based on amino acid usage. Each task is broken down into functions designed to solve specific problems related to genomics and proteomics.
 
 # Features
-- Primers and Melting Temperature: Reads DNA sequences from FASTA files. Computes the complement of sequences. Generates primers and computes their melting temperatures.
-
-- Translation and Reading Frames: Translates DNA sequences into amino acid sequences across all reading frames. Locates the longest Open Reading Frame (ORF). Outputs the translated ORF in FASTA format.
-
-- Amino Acid Classification: Analyzes amino acid sequences. Computes statistics on amino acid properties: polar, small, and hydrophobic residues.
-
-- Protein Clustering: Calculates Euclidean distances between proteins based on amino acid composition. Generates a distance matrix to cluster proteins.
+- Developed methods to read DNA sequences, extract primers, and calculate melting temperatures.
+- Translated DNA sequences into proteins, identified open reading frames, and wrote results in FASTA format.
+- Analyzed amino acid sequences, calculated residue percentages, and processed multiple sequences for comparison.
+- Calculated Euclidean distances between proteins based on amino acid properties and generated a distance matrix for clustering.
 
 # How to Use
 
@@ -17,17 +14,10 @@ Clone this repository:
 
 git clone https://github.com/yourusername/Bioinformatics-Assignment-Toolkit.git
 
-Install necessary libraries:
-
-# Project Structure
-
-primers.py: Handles primer extraction and melting temperature calculations.
-
-translation.py: Translates DNA sequences into proteins.
-
-classification.py: Analyzes amino acid composition.
-
-clustering.py: Clusters proteins based on amino acid properties.
+# Necessary libraries:
+import os
+import os.path
+import math
 
 # Tests
 
