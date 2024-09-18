@@ -32,4 +32,4 @@ This project is licensed under the MIT License.
 
 # Contact
 
-For queries, please contact Monty Nkpa. Connect with me on LinkedIn: https://www.linkedin.com/in/monty-nkpa-7a4a7623b/
+For queries, connect with me on LinkedIn: https://www.linkedin.com/in/monty-nkpa-7a4a7623b/
