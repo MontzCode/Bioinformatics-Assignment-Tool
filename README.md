@@ -12,7 +12,7 @@ This repository contains a collection of Python functions designed for DNA and p
 
 Clone this repository:
 
-git clone https://github.com/yourusername/Bioinformatics-Assignment-Toolkit.git
+git clone https://github.com/MontzCodedna-protein-seq-functions.git
 
 - Programming languages used: Python
   
